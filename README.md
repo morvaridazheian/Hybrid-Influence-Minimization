@@ -81,7 +81,7 @@ No shared state or dependencies between trials exist, making the implementation 
 - TOPSIS rankings per community  
 - Final selected nodes for removal  
 - Baseline vs optimized influence spread  
-- Percent improvement
+- Percent of candidate nodes selected by GA
   
 ### 🧠 Why This Approach?
 
